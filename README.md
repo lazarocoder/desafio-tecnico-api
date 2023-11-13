@@ -1,6 +1,6 @@
 # Desafio-tecnico-api
 
-Esta aplicação tem como finalidade um blog que os usuários usuários cadastrados e autenticados possam, criar postagens e também criar albuns de fotos.
+Esta aplicação tem como finalidade um blog que os usuários cadastrados e autenticados possam, criar postagens e também criar albuns de fotos.
 
 ## Pré-requisitos
 

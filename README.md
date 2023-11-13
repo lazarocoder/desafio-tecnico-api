@@ -24,13 +24,19 @@ Siga estas etapas para executar localmente o seu projeto:
 - [Bash]
    git clone https://github.com/lazarocoder/desafio-tecnico-api.git
 
-- [Maven]
+- Navegue até o diretório do projeto:
 
+```bash
+    cd desafio-tecnico-api
+```
+
+- [Maven]
+```bash
 2. mvn build
 3. mvn clean
 4. mvn install
 5. mvn spring-boot:run
-
+```
 
 
 

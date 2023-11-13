@@ -22,8 +22,9 @@ Siga estas etapas para executar localmente o seu projeto:
 1. Clone este repositório:
 
 - [Bash]
-   git clone https://github.com/lazarocoder/desafio-tecnico-api.git
-
+```bash
+  git clone https://github.com/lazarocoder/desafio-tecnico-api.git
+```
 - Navegue até o diretório do projeto:
 
 ```bash
